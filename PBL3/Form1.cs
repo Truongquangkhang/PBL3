@@ -40,6 +40,7 @@
                 Form2 f2 = new Form2();
                 f2.ShowDialog();
                 this.Show();
+                // Hello
             }
              
         }
