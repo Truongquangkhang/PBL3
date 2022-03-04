@@ -16,3 +16,4 @@ C:\Users\win\source\repos\PBL3\PBL3\obj\Debug\net6.0-windows\refint\PBL3.dll
 C:\Users\win\source\repos\PBL3\PBL3\obj\Debug\net6.0-windows\PBL3.pdb
 C:\Users\win\source\repos\PBL3\PBL3\obj\Debug\net6.0-windows\PBL3.genruntimeconfig.cache
 C:\Users\win\source\repos\PBL3\PBL3\obj\Debug\net6.0-windows\ref\PBL3.dll
+C:\Users\win\source\repos\PBL3\PBL3\obj\Debug\net6.0-windows\PBL3.Form2.resources

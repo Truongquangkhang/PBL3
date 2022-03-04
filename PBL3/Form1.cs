@@ -1,4 +1,4 @@
-namespace PBL3
+﻿namespace PBL3
 {
     public partial class Form1 : Form
     {
@@ -26,5 +26,20 @@ namespace PBL3
             f1.Show();
         }
 
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "" || textBox2.Text == "")
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin !!","Thông Bao",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            else
+            {
+                Form2 f2 = new Form2();
+                f2.ShowDialog();
+            }
+             
+        }
     }
 }
