@@ -36,8 +36,10 @@
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin !!","Thông Bao",MessageBoxButtons.OK,MessageBoxIcon.Warning);
             else
             {
+                this.Hide();
                 Form2 f2 = new Form2();
                 f2.ShowDialog();
+                this.Show();
             }
              
         }
